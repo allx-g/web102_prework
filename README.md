@@ -28,6 +28,8 @@ Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/gKIOjzD' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Alternative link: [Video Walkthrough](https://imgur.com/a/sea-monster-crowdfunding-gKIOjzD)
+
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with LICEcap
