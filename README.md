@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/gKIOjzD' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/nvEHDoN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Alternative link: [Video Walkthrough](https://imgur.com/a/sea-monster-crowdfunding-gKIOjzD)
 
